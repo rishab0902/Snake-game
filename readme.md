@@ -14,7 +14,8 @@
 - Better Graphics
 - Better Design
 - Better performance
-  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Screencast-2021-06-23-232057.gif?raw=true)](https://username.github.io)
+
+  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Screencast-2021-06-23-232057%20(1).gif?raw=true)](https://username.github.io)
 
 ## Prerequisite
 - Must have Java **jdk** any IDE like **Intellij**(preferred) or **Eclipse** or any other IDE that can run Java Programmes.
@@ -31,9 +32,10 @@
 - Project `Snake -game` will open in Project Explorer Menu
   - Go to `Snake-game/src/com/snake` and click on Main.java which will be display on your IDE
   - Click **Run** button in Main.java(it has `main` method ) and frame will run
-  - Sometimes your IDE might takes some time to build the graphics the clic on **Debug** button in your IDE and it will run quickly.
+  - Sometimes your IDE might takes some time to build the graphics then click on **Debug** button in your IDE and it will run quickly.
   
  ## Controls
+   
    
  
 | Keyboard Keys    |       Description                                                                                  |
@@ -43,7 +45,12 @@
 |Up key  | Moving the snake to Up direction if and only if its moving in Down direction|
 |Down key  |Moving the snake to Down direction if and only if its moving in Up direction |
 |Space key  |To restart the Game|
-
+ 
+ ### Score Board
+ [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/scoreboard.png?raw=true)](https://username.github.io)
+ - **Scores** : How many balls the snake had eaten
+ - **Length** : Total count of each head and body
+ 
 
 
 #
