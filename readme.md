@@ -25,6 +25,6 @@
    git clone https://github.com/rishab0902/Snake-game.git
    ```
  - Open your project`Snake-game` by going to **File-menu** of your IDE
-    - if you need guidance hoe to open or import your projects [Click here](https://www.microfocus.com/documentation/enterprise-developer/ed232/Eclipse/GUID-773A19C7-98B2-442D-9D36-240E20E3F2CE.html)
+   - if you need guidance hoe to open or import your projects [Click here](https://www.microfocus.com/documentation/enterprise-developer/ed232/Eclipse/GUID-773A19C7-98B2-442D-9D36-240E20E3F2CE.html)
 - Project `Snake -game` will open in Project Explorer Menu 
     
