@@ -8,7 +8,7 @@
   - snake: This is runner package having Main class
     - Main :- runner class of this game and includes frame setups
   - gameplay: This package has Gameplay class
-    - Gameplay :-this class has all the methods and functions and all the implementations
+    - Gameplay :- this class has all the methods and functions and all the implementations
     
   
 
@@ -55,7 +55,14 @@
  
 
 
-#
+##Customisation you can try
+  -Changing Background Color:-Go to `Snake-game/src/main/java/snake/Main.java` and locate this line and use any color
+  [![MasterHead]([![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/mdend.jpg?raw=true)](https://username.github.io))](https://username.github.io)
+  
+  
+  `
+  
+  
 
 
     
