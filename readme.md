@@ -55,10 +55,16 @@
  
 
 
-##Customisation you can try
-  -Changing Background Color:-Go to `Snake-game/src/main/java/snake/Main.java` and locate this line and use any color
-  [![MasterHead]([![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/mdend.jpg?raw=true)](https://username.github.io))](https://username.github.io)
+## Customisation you can try
+  - Changing Background Color:-Go to `Snake-game/src/main/java/snake/Main.java` and locate this line and use any color
   
+ [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00001.png?raw=true)](https://username.github.io)
+  - Changing Gameboard Background Color:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and this line and use any color
+
+ [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00002.png?raw=true)](https://username.github.io)
+  - Changing Border color of Board:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and this line and use any color
+  
+ [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00003.png?raw=true)](https://username.github.io)
   
   `
   
