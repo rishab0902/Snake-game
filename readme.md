@@ -2,11 +2,13 @@
 [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/mdend.jpg?raw=true)](https://username.github.io)
 ## About this game
 - This is a GUI snake game built in java
+- This is a **Maven Project**
 - This game is build by using Java AWT,Java Swing
-- This includes Two class 
-  - Main Class : runner class of this game and includes frame setups
-  - Gameplay Class : this class has all the methods and functions and all the implementations
-    
+- This includes Two Packages 
+  - snake: This is runner package having Main class
+    - Main :- runner class of this game and includes frame setups
+  - gameplay: This package has Gameplay class
+    - Gameplay :-this class has all the methods and functions and all the implementations
     
   
 
@@ -40,10 +42,10 @@
  
 | Keyboard Keys    |       Description                                                                                  |
 | --------------------|----------------------------------------------------------------------------------------------------| 
-| Rignt key | Moving the snake to Right direction if and only if its moving in Left direction |  
-|Left key   | Moving the snake to Left direction if and only if its moving in Right direction |
-|Up key  | Moving the snake to Up direction if and only if its moving in Down direction|
-|Down key  |Moving the snake to Down direction if and only if its moving in Up direction |
+| Rignt key | Moving the snake to Right direction if and only if its not moving in Left direction |  
+|Left key   | Moving the snake to Left direction if and only if its not moving in Right direction |
+|Up key  | Moving the snake to Up direction if and only if its moving not in Down direction|
+|Down key  |Moving the snake to Down direction if and only if its not moving in Up direction |
 |Space key  |To restart the Game|
  
  ### Score Board
