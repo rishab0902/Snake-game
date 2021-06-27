@@ -59,12 +59,25 @@
   - Changing Background Color:-Go to `Snake-game/src/main/java/snake/Main.java` and locate this line and use any color
   
  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00001.png?raw=true)](https://username.github.io)
-  - Changing Gameboard Background Color:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and this line and use any color
+  - Changing Gameboard Background Color:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and locate this line and use any color
 
  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00002.png?raw=true)](https://username.github.io)
-  - Changing Border color of Board:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and this line and use any color
+  - Changing Border color of Board:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and locate this line and use any color
   
  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00003.png?raw=true)](https://username.github.io)
+  - Chnaging the speed:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and locate this line, increasing speedDelay will decrease the speed and vice-versa
+
+ [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00004.png?raw=true)](https://username.github.io)
+  - Add more enemy ball cordinates:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and locate this line and add more position co-ordinates
+  
+  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00005.png?raw=true)](https://username.github.io)
+  
+## Future Updates
+- Packaging this project as a **jar** file
+- Making this game as a **Window Application**
+
+
+  
   
   `
   
