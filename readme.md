@@ -4,7 +4,7 @@
 - This is a GUI snake game built in java
 - This is a **Maven Project**
 - This game is build by using Java AWT,Java Swing
-- This includes Two Packages 
+- This **Project** includes Two **Packages** 
   - snake: This is runner package having Main class
     - Main :- runner class of this game and includes frame setups
   - gameplay: This package has Gameplay class
