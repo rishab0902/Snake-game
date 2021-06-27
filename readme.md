@@ -44,7 +44,7 @@
 | --------------------|----------------------------------------------------------------------------------------------------| 
 | Rignt key | Moving the snake to Right direction if and only if its not moving in Left direction |  
 |Left key   | Moving the snake to Left direction if and only if its not moving in Right direction |
-|Up key  | Moving the snake to Up direction if and only if its moving not in Down direction|
+|Up key  | Moving the snake to Up direction if and only if its not moving in Down direction|
 |Down key  |Moving the snake to Down direction if and only if its not moving in Up direction |
 |Space key  |To restart the Game|
  
