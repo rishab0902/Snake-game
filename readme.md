@@ -68,9 +68,7 @@
   - Chnaging the speed:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and locate this line, increasing speedDelay will decrease the speed and vice-versa
 
  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00004.png?raw=true)](https://username.github.io)
-  - Add more enemy ball cordinates:-Go to `Snake-game/src/main/java/snake/Gameplay.java` and locate this line and add more position co-ordinates
-  
-  [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Kazam_screenshot_00005.png?raw=true)](https://username.github.io)
+
   
 ## Future Updates
 - Packaging this project as a **jar** file
