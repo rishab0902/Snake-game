@@ -19,7 +19,7 @@
 
   [![MasterHead](https://github.com/rishab0902/Snake-game/blob/master/Markdown/Screencast-2021-06-23-232057%20(1).gif?raw=true)](https://username.github.io)
 
-## Prerequisite
+## Prerequisite requirement
 - Must have Java **jdk** any IDE like **Intellij**(preferred) or **Eclipse** or any other IDE that can run Java Programmes.
 - To setup JDK in Window ,Mac or Linux **[Click here](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html#:~:text=Step%201b%3A%20Install%20Oracle%20JDK,gz%20%22%20%2D%20179MB).**
 - To setup and install **Intellij [Click here](https://www.jetbrains.com/help/idea/installation-guide.html).**
